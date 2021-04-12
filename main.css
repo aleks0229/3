@@ -42,9 +42,10 @@ p {
 .header {
   height: 123.36px;
   width: 1141px;
-  left: 190px;
   position: relative;
   margin-bottom: 131px;
+  top: 26.64px;
+  left: 190px;
 }
 
 .header__container {
@@ -118,9 +119,10 @@ p {
 
 .hello__title {
   font-size: 72px;
-  font-weight: bold;
+  font-weight: 700;
   line-height: 98px;
   margin-bottom: 27.5px;
+  width: 511px ;
 }
 
 .hello__subtitle {
@@ -143,7 +145,7 @@ p {
 
 .tours {
   margin-bottom: 127px;
-  width: 1140px;
+  width: 1141px;
   height: 549px;
 }
 
@@ -232,7 +234,7 @@ p {
 }
 
 .container {
-  width: 1141px;
+  width: 1139px;
   margin: 0 auto;
 }
 
