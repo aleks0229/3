@@ -35,7 +35,7 @@ p {
 }
 
 .page-wrapper {
-  background: url(./img/fon1.png) center top no-repeat, url(./img/fon2.png) left bottom 165px no-repeat;
+  background: url(img/fon1.png) center top no-repeat, url(img/fon2.png) left bottom 165px no-repeat;
 }
 
 
