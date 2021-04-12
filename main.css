@@ -100,9 +100,19 @@ p {
   color: #534444;
 }
 
+.maincontent {
+  width: 1140px;
+  margin: 0 auto;
+}
+
 
 .hello {
   width: 511px;
+}
+
+.container {
+  width: 1140px;
+  margin: 0 auto;
 }
 
 
@@ -133,6 +143,8 @@ p {
 
 .tours {
   margin-bottom: 127px;
+  width: 1140px;
+  height: 549px;
 }
 
 .tours__title--fire {
@@ -146,9 +158,9 @@ p {
   height: 449px;
   width: 362px;
   background: #FFFFFF;
-  border-radius: 5px 5px 0 0;
+ 
   display: inline-block;
-  margin-right: 23px;
+  margin-right: 22px;
   margin-bottom: 127px;
 }
 
@@ -159,26 +171,27 @@ p {
 .offers__header {
   height: 144px;
   width: 362px;
-  margin-bottom: 33px;
+  margin-bottom: 5px;
 }
 
 .offers__content {
   width: 362px;
   height: 305px;
-  padding: 30px 18px;
+  padding: 26px 16px;
   color: #303030;
 }
 
 .offers__title {
   font-weight: 700;
   font-size: 24px;
-  margin-bottom: 23px;
+  margin-bottom: 21px;
 }
 
 .offers__feature {
   display: inline-block;
-  width: 130px;
-  margin-right: 13;
+  width: 271px;
+  height: 26px;
+  margin-right: 1;
   color: #666666
 }
 
@@ -198,7 +211,8 @@ p {
 .offers__text {
   color: #303030;
   margin-bottom: 24.5px;
-  text-align:left
+  margin-left: 22px;
+  text-align: left;
 }
 
 
@@ -297,7 +311,7 @@ p {
   position: absolute;
   width: 490px;
   height: 505px;
-  left: 270px;
+  left: 280px;
   background: url(./img/gates.png);
 }
 
@@ -306,9 +320,9 @@ p {
   padding: 70px 81px;
   display: inline-block;
   vertical-align: top;
-  width: 778px;
+  width: 760px;
   height: 455px;
-  left: 623px;
+  left: 635px;
   border-radius: 5px;
   background: url(./img/mountains.png);
   margin-top: 100px;
