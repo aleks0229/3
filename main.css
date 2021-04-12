@@ -34,7 +34,7 @@ p {
   box-sizing: border-box;
 }
 
-.elephant-page-wrapper {
+.page-wrapper {
   background: url(./img/fon1.png) center top no-repeat, url(./img/fon2.png) left bottom 165px no-repeat;
 }
 
@@ -45,12 +45,7 @@ p {
   position: relative;
   margin-bottom: 131px;
   top: 26.64px;
-  left: 389px;
-}
-
-.header__container {
-  margin: 0 auto;
-  width: 1141px;
+  left: 190px;
 }
 
 
@@ -102,19 +97,13 @@ p {
 }
 
 .maincontent {
-  width: 1140px;
+  width: 1141px;
   margin: 0 auto;
 }
 
 
 .hello {
   width: 511px;
-  left: 389px;
-}
-
-.container {
-  width: 1141px;
-  margin: 0 auto;
 }
 
 
@@ -148,12 +137,6 @@ p {
   margin-bottom: 127px;
   width: 1141px;
   height: 549px;
-  left: 389px;
-}
-
-.container {
-  width: 1141px;
-  margin: 0 auto;
 }
 
 .tours__title--fire {
@@ -233,12 +216,6 @@ p {
   margin-bottom: 53px;
   width: 1139px;
   height: 600px;
-  left: 389px;
-}
-
-.container {
-  width: 1139px;
-  margin: 0 auto;
 }
 
 .title {
@@ -320,14 +297,7 @@ p {
   width: 1139px;
   height: 552px;
   margin-bottom: 102px;
-  left: 389px;
 }
-
-.container {
-  width: 1139px;
-  margin: 0 auto;
-}
-
 
 .about:before {
   content: "";
@@ -375,7 +345,7 @@ p {
   height: 146px;
   position: relative;
   width: 1141px;
-  left: 389px;
+  left: 190px;
 }
 
 .socials {
