@@ -317,30 +317,6 @@ p {
    float: left;
  }
 
- .about:before {
-  content: "";
-  display: inline-block;
-  position: absolute;
-  width: 490px;
-  height: 505px;
-  left: 280px;
-  background: url(./img/gates.png);
-}
-
-.about__content {
-  position: absolute;
-  padding: 70px 81px;
-  display: inline-block;
-  vertical-align: top;
-  width: 760px;
-  height: 455px;
-  left: 635px;
-  border-radius: 5px;
-  background: url(./img/mountains.png);
-  margin-top: 100px;
-  margin-bottom: 53px;
-}
-
 .about__title {
   font-weight: 700;
   font-size: 36px;
