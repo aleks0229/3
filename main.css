@@ -34,9 +34,7 @@ p {
   box-sizing: border-box;
 }
 
-.wrapper {
-  background: url(img/fon1.png) center top no-repeat, url(img/fon2.png) left bottom 165px no-repeat;
-}
+
 
 .container {
   width: 1141px;
@@ -308,19 +306,13 @@ p {
   height: 552px;
   margin-bottom: 102px;
 }
- .about__pic {
+.about__pic {
    position: absolute;
    z-index: -1;
- }
+}
 
- .about__block{
-   float: left;
- }
-
-.about__title {
-  font-weight: 700;
-  font-size: 36px;
-  margin-bottom: 37px;
+.about__block{
+  float: left;
 }
 
 .about__text {
