@@ -45,7 +45,7 @@ p {
   position: relative;
   margin-bottom: 131px;
   top: 26.64px;
-  left: 190px;
+  left: 389px;
 }
 
 .header__container {
@@ -109,6 +109,7 @@ p {
 
 .hello {
   width: 511px;
+  left: 389px;
 }
 
 .container {
@@ -147,6 +148,7 @@ p {
   margin-bottom: 127px;
   width: 1141px;
   height: 549px;
+  left: 389px;
 }
 
 .container {
@@ -231,6 +233,7 @@ p {
   margin-bottom: 53px;
   width: 1139px;
   height: 600px;
+  left: 389px;
 }
 
 .container {
@@ -321,7 +324,7 @@ p {
 }
 
 .container {
-  width: 1141px;
+  width: 1139px;
   margin: 0 auto;
 }
 
@@ -372,7 +375,7 @@ p {
   height: 146px;
   position: relative;
   width: 1141px;
-  left: 190px;
+  left: 389px;
 }
 
 .socials {
