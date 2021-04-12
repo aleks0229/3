@@ -34,7 +34,7 @@ p {
   box-sizing: border-box;
 }
 
-.page-wrapper {
+.wrapper {
   background: url(img/fon1.png) center top no-repeat, url(img/fon2.png) left bottom 165px no-repeat;
 }
 
@@ -46,11 +46,6 @@ p {
   margin-bottom: 131px;
   top: 26.64px;
   left: 190px;
-}
-
-.header__container{
-  width: 1141px;
-  margin: 0 auto;
 }
 
 
@@ -101,14 +96,14 @@ p {
   color: #534444;
 }
 
-.maincontent {
-  width: 1141px;
-  margin: 0 auto;
-}
-
 
 .hello {
   width: 511px;
+}
+
+.container {
+  max-width: 1141px;
+  margin: 0 auto;
 }
 
 
