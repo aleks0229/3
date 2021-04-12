@@ -48,6 +48,11 @@ p {
   left: 190px;
 }
 
+.header__container{
+  width: 1141px;
+  margin: 0 auto;
+}
+
 
 .logo {
   display: block;
@@ -346,6 +351,11 @@ p {
   position: relative;
   width: 1141px;
   left: 190px;
+}
+
+.footer__container{
+  width: 1141px;
+  margin: 0 auto;
 }
 
 .socials {
