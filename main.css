@@ -221,7 +221,7 @@ p {
 .news {
   margin-bottom: 53px;
   width: 100%;
-  height: 600px;
+  height: 552px;
 }
 
 .title {
@@ -305,6 +305,7 @@ p {
   width: 100%;
   height: 552px;
   margin-bottom: 102px;
+  margin-top: 151px;
 }
 .about__pic {
    position: absolute;
@@ -312,7 +313,13 @@ p {
 }
 
 .about__block{
-  float: left;
+  position: absolute;
+  display: inline-block;
+  width: 785px;
+  height: 455px;
+  margin-left: 354px;
+  margin-top: 97px;
+  border-radius: 5px;
 }
 
 .about__text {
