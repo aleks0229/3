@@ -64,7 +64,6 @@ p {
 .logo {
   display: block;
   position: absolute;
-  left: 79px;
   top: 29px;
 }
 .menu {
@@ -331,8 +330,6 @@ p {
 .footer {
   height: 92.64px;
   position: relative;
-  width: 1141px;
-  left: 190px;
 }
 
 .footer__container{
