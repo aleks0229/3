@@ -315,7 +315,6 @@ p {
   height: 26px;
 }
 
-
 .pagination {
   text-align: center;
   margin-bottom: 124px;
@@ -323,18 +322,17 @@ p {
 }
 
 .pagination__info {
-  width: 125px;
-  height: 20px;
-  font-size: 16px;
   display: inline-block;
   vertical-align: middle;
   margin-right: 25px;
-  margin-bottom: 152.5px;
+  width: 125px;
+  height: 20px;
+  font-size: 16px;
 }
 
 .pagination__list {
-  display: inline-block;
-  vertical-align: middle;
+display: inline-block;
+vertical-align: middle;
 }
 
 .pagination__item--active {
@@ -342,14 +340,30 @@ p {
   color: #F5170E;
 }
 
+
 .pagination__item {
   display: inline-block;
+  vertical-align: middle;
+  font-weight: bold;
+  font-size: 16px;
+  margin-right: 24px;
   width: 32px;
   height: 32px;
   border-radius: 50%;
-  font-weight: bold;
-  margin-bottom: 140px;
+  line-height: 32px;
 }
+
+
+.pagination__link {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
 
 .about {
   position: relative;
