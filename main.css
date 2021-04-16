@@ -103,10 +103,10 @@ p {
   margin-bottom: 2px;
 }
 
-.contacts__workschedule {
+.contacts__workschedule--schedule {
   font-size: 13px;
   text-decoration: underline;
-  color: #534444;
+  color: #FFFFFF
 }
 
 
@@ -255,7 +255,7 @@ p {
 
 
 .news {
-  margin-bottom: 53px;
+  margin-bottom: 124px;
   width: 100%;
   height: 552px;
 }
@@ -276,6 +276,7 @@ p {
   border-radius: 5px;
   overflow: hidden;
   margin-right: 20px;
+  margin-bottom: 53px;
 }
 
 .news__item:last-child {
@@ -317,8 +318,8 @@ p {
 
 .pagination {
   text-align: center;
-  margin-bottom: 124px;
-  margin-top: 53px;
+ 
+
 }
 
 .pagination__info {
