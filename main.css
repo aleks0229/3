@@ -159,7 +159,7 @@ p {
 }
 
 .offers__item {
-  height: 449px;
+  min-height: 449px;
   width: 362px;
   background: #FFFFFF;
   display: inline-block;
